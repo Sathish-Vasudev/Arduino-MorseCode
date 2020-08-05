@@ -28,6 +28,7 @@ One input at a time, at the end of the letter use a break.
 _______________________________________________________________________________________
 #### Example:
 **Word** : Hi <br/>
+**Morse Code** : ***.... ..*** <br/>
 **Input sequence:** <br/>
 0 - Enter <br/>
 0 - Enter <br/>
@@ -47,6 +48,13 @@ Record the inputs of the 3 channels as follows, <br/>
 CHANNEL 1 - 0 <br/>
 CHANNEL 2 - 1 <br/>
 CHANNEL 3 - Break
+_______________________________________________________________________________________
+
+You can also implement bluetooth by assigning options for dots and dashes and breaks. Blynk is a popular Android App that acts a bridge between Arduino bluetooth module HC-05 and the Android mobile. It can be used to send Morse Code messages from a mobile to an arduino board in range.
+
+_______________________________________________________________________________________
+
+The Applications of this program is countless, completely depends upon the user.
 _______________________________________________________________________________________
 
 Project will be updated soon!
